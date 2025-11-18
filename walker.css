@@ -37,6 +37,7 @@ window .box-wrapper {
     border-radius: 8px;
     box-shadow: 0 2px 12px alpha(@selected-text, 0.2);
     backdrop-filter: blur(10px);
+    background: @base;
     line-height: 70%;
 }
 
