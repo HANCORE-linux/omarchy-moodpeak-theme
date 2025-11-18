@@ -7,14 +7,6 @@
 
 @define-color hover #e6d4bd;
 
-window * {
-    all: unset;
-    color: @base;
-    background: none;
-    border: none;
-    margin: 0;
-    padding: 0;
-}
 
 window .search-container {
   background: alpha(@hover, 0.6);
@@ -27,6 +19,20 @@ window .search-container {
   color: @base;
 }
 
+window .search-container text {
+    all: unset;
+    color: @base;
+    caret-color: @base;
+}
+
+window .search-container:focus-within {
+    border-color: @border;
+    box-shadow: 0 8px 30px alpha(@selected-text, 0.35);
+    color: @base;
+}
+
+
+
 window .box-wrapper {
     border-radius: 8px;
     box-shadow: 0 2px 12px alpha(@selected-text, 0.2);
@@ -38,6 +44,23 @@ window .item-text {
     font-weight: normal;
     color: @text;
     padding: 1px 2px;
+}
+
+window .preview {
+    background: alpha(@base, 0.10);
+    color: @foreground;
+    padding: 16px;
+    margin: 8px 20px 16px 20px;
+    border-radius: 10px;
+    border: 2px solid transparent;
+    transition: all 180ms ease-out;
+    backdrop-filter: blur(10px);
+}
+
+window:focus-within .preview {
+    border: 2px solid @selected-text;
+    background: alpha(@base, 0.25);
+    box-shadow: 0 8px 32px alpha(@selected-text, 0.25);
 }
 
 
