@@ -1,7 +1,7 @@
 # Moodpeak
 Moodpeak is my space for small, calm utilities that turn bad days into good ones with minimal noise and maximum comfort.
 Everything here is designed to whisper encouragement instead of shouting features.
-If you ever need a gentle digital nudge that says “keep going, one step at a time,” this is where you’ll find
+If you ever need a gentle digital nudge that says “keep going, one step at a time,” this is where you’ll find.
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-18_17-39-33" src="https://github.com/user-attachments/assets/bda343dd-e015-4aaa-a282-4b537f8a0bb4" />
 <img width="2560" height="1440" alt="screenshot-2025-11-18_17-46-28" src="https://github.com/user-attachments/assets/96364fb4-7a6e-4cce-9e41-0074bdeaac4e" />
