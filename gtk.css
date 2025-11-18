@@ -16,12 +16,12 @@
 @define-color cyan #abc6c9;
 @define-color white #FDF6E4;
 @define-color bright_black #595f6c;
-@define-color bright_red #ffffff;
-@define-color bright_green #ebecea;
-@define-color bright_yellow #fbfbfa;
-@define-color bright_blue #d1d7e0;
-@define-color bright_magenta #d7e2ea;
-@define-color bright_cyan #e2eced;
+@define-color bright_red #ffb3a7;
+@define-color bright_green #c7e9c0;
+@define-color bright_yellow #fff2ae;
+@define-color bright_blue #a8c7e8;
+@define-color bright_magenta #c8a7e6;
+@define-color bright_cyan #a9e1dd;
 @define-color bright_white #ffffff;
 
 /* Adwaita Color Overrides */
