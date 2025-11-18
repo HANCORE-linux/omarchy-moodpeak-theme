@@ -5,6 +5,8 @@ If you ever need a gentle digital nudge that says “keep going, one step at a t
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-18_17-39-33" src="https://github.com/user-attachments/assets/bda343dd-e015-4aaa-a282-4b537f8a0bb4" />
 <img width="2560" height="1440" alt="screenshot-2025-11-18_17-54-02" src="https://github.com/user-attachments/assets/4423bc02-06e8-4ac0-87db-d0a86261d116" />
+<img width="2560" height="1440" alt="screenshot-2025-11-18_17-56-44" src="https://github.com/user-attachments/assets/2f2836a4-5734-44ab-b185-02a28e1ebad0" />
+
 
 
 
