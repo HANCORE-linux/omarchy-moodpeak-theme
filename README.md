@@ -24,12 +24,12 @@ To install this theme, simply use the omarchy-theme-install command:
 omarchy-theme-install https://github.com/HANCORE-linux/omarchy-moodpeak-theme.git
 ```
 ## Vesktop-Theme
-For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
+For Vesktop users, you can install this theme by copying or use Bypass hook-script (usally from ~/Downloads) the theme file to your Vesktop themes directory:
 ```bash
-cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.mechanoonna.css
+cp vencord.theme.css ~/.config/vesktop/themes/vencord.theme.css
 ```
 
-## VSCode, ZED, Spotify , GTK Support
+## Vesktop (Discord) ,  VSCode, ZED, Spotify , GTK Support etc..
 - all yes! - thanks [imbypass](https://github.com/imbypass/omarchy-hook-theme-set-ex/tree/main) for his hook script!
 - VSCode: click on manage (left down corner) > Themes > Color Theme > search for Omarchy
 
