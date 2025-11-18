@@ -34,10 +34,9 @@ window .search-container:focus-within {
 
 
 window .box-wrapper {
-    border-radius: 8px;
+    border-radius: 4px;
     box-shadow: 0 2px 12px alpha(@selected-text, 0.2);
     backdrop-filter: blur(10px);
-    background: @base;
     line-height: 70%;
 }
 
@@ -50,9 +49,9 @@ window .item-text {
 window .preview {
     background: alpha(@base, 0.10);
     color: @foreground;
-    padding: 16px;
-    margin: 8px 20px 16px 20px;
-    border-radius: 10px;
+    padding: 8px;
+    margin: 4px 10px 8px 10px;
+    border-radius: 4px;
     border: 2px solid transparent;
     transition: all 180ms ease-out;
     backdrop-filter: blur(10px);
