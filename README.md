@@ -38,7 +38,7 @@ cp vencord.theme.css ~/.config/vesktop/themes/vencord.theme.css
 - copy moodpeak.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'moodpeak' ```
 
 ## Waybar-Theme
-For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
+For my Waybar-Theme simply check my [Link](https://github.com/HANCORE-linux/waybar-themes)
 
 ## Acknowledgments
 This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo).
