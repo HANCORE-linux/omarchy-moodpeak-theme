@@ -1,0 +1,68 @@
+# Nord
+# Theme create by: https://github.com/rames-eltany
+# Update by(sort by time):
+# 
+# Thanks for all contributor!!
+
+# If you want to make border display just set it same as sidebar background color
+
+# Code syntax highlight theme (you can go to https://github.com/alecthomas/chroma/blob/master/styles to find one you like)
+code_syntax_highlight = "moodpeak"
+
+# ========= Border =========
+file_panel_border         = "#3a404c"
+sidebar_border            = "#3a404c"
+footer_border             = "#3a404c"
+
+# ========= Border Active =========
+file_panel_border_active  = "#e6d4bd"
+sidebar_border_active     = "#e6d4bd"
+footer_border_active      = "#e6d4bd"
+modal_border_active       = "#e6d4bd"
+
+# ========= Background =========
+full_screen_bg            = "#1d222c"
+file_panel_bg             = "#1d222c"
+sidebar_bg                = "#1d222c"
+footer_bg                 = "#1d222c"
+modal_bg                  = "#1d222c"
+
+# ========= Foreground =========
+full_screen_fg            = "#9ba7ba"
+file_panel_fg             = "#9ba7ba"
+sidebar_fg                = "#9ba7ba"
+footer_fg                 = "#9ba7ba"
+modal_fg                  = "#9ba7ba"
+
+# ========= Special Color =========
+cursor                    = "#e6d4bd"
+correct                   = "#abc6c9"
+error                     = "#ffb3a7"
+hint                      = "#9db5c8"
+cancel                    = "#595f6c"
+
+# sanfter Gradient von warmem Gold zu kühlem Cyan
+gradient_color            = ["#e6d4bd", "#abc6c9"]
+
+# ========= File Panel Special Items =========
+file_panel_top_directory_icon = "#e6d4bd"
+file_panel_top_path           = "#e6d4bd"
+file_panel_item_selected_fg   = "#1d222c"
+file_panel_item_selected_bg   = "#e6d4bd"
+
+# ========= Sidebar Special Items =========
+sidebar_title                 = "#e6d4bd"
+sidebar_item_selected_fg      = "#1d222c"
+sidebar_item_selected_bg      = "#e6d4bd"
+sidebar_divider               = "#3a404c"
+
+# ========= Modal Special Items =========
+modal_cancel_fg               = "#9ba7ba"
+modal_cancel_bg               = "#3a404c"
+
+modal_confirm_fg              = "#1d222c"
+modal_confirm_bg              = "#e6d4bd"
+
+# ========= Help Menu =========
+help_menu_hotkey                = "#abc6c9"
+help_menu_title               = "#e6d4bd"
