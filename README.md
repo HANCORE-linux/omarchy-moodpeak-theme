@@ -31,7 +31,7 @@ cp vencord.theme.mechanoonna.css ~/.config/vesktop/themes/vencord.theme.mechanoo
 
 ## Superfile Support
 - created a Theme for superfile
-- copy mechanoonna.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'mechanoonna' ```
+- copy moodpeak.toml to ~/.config/superfile/theme/ and edit in your config.toml  the line to ``` theme = 'moodpeak' ```
 
 ## Waybar-Theme
 For my Waybar-Theme simply check my Link https://github.com/HANCORE-linux/Waybar-Theme-red-accents-.git
