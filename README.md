@@ -3,8 +3,9 @@ Moodpeak is my space for small, calm utilities that turn bad days into good ones
 Everything here is designed to whisper encouragement instead of shouting features.
 If you ever need a gentle digital nudge that says “keep going, one step at a time,” this is where you’ll find
 # Screenshots
-<img width="2560" height="1440" alt="screenshot-2025-11-08_00-34-13" src="https://github.com/user-attachments/assets/0b7eb296-29d6-4409-bf77-f962e1920a05" />
-<img width="2560" height="1440" alt="screenshot-2025-11-08_11-34-39" src="https://github.com/user-attachments/assets/155ba650-6970-4ee4-ac99-9d35e70761ec" />
+<img width="2560" height="1440" alt="screenshot-2025-11-18_17-39-33" src="https://github.com/user-attachments/assets/bda343dd-e015-4aaa-a282-4b537f8a0bb4" />
+<img width="2560" height="1440" alt="screenshot-2025-11-18_17-44-00" src="https://github.com/user-attachments/assets/781b9bf3-e3a2-4fa9-869a-c82975436ff6" />
+
 
 
 # Backgrounds
@@ -17,7 +18,7 @@ If you ever need a gentle digital nudge that says “keep going, one step at a t
 To install this theme, simply use the omarchy-theme-install command:
 
 ```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-mechanoonna-theme.git
+omarchy-theme-install https://github.com/HANCORE-linux/omarchy-moodpeak-theme.git
 ```
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying (usally from ~/Downloads) the theme file to your Vesktop themes directory:
