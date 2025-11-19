@@ -4,6 +4,7 @@ Everything here is designed to whisper encouragement instead of shouting feature
 If you ever need a gentle digital nudge that says “keep going, one step at a time,” this is where you’ll find.
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-19_08-48-01" src="https://github.com/user-attachments/assets/6ca08f0e-d9a9-4854-bc38-32efa4e95554" />
+<img width="2560" height="1440" alt="screenshot-2025-11-19_08-49-37" src="https://github.com/user-attachments/assets/d66630af-351f-4fde-af11-cb534c152c89" />
 <img width="2560" height="1440" alt="screenshot-2025-11-18_17-56-44" src="https://github.com/user-attachments/assets/2f2836a4-5734-44ab-b185-02a28e1ebad0" />
 
 
