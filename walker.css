@@ -9,32 +9,28 @@
 
 
 window .search-container {
-  background: alpha(@hover, 0.6);
+  background: alpha(@hover, 0.1);
   border: 2px solid alpha(@border, 0.8);
-  border-radius: 4px;
+  border-radius: 6px;
   padding: 8px 12px;
   margin: 4px 0;
   font-size: 18px;
   font-weight: 400;
-  color: @base;
+  color: @selected-text;
+  caret-color: @selected-text;
 }
 
 window .search-container text {
-    all: unset;
-    color: @base;
-    caret-color: @base;
+    
+    color: @selected-text;
+    caret-color: @selected-text;
 }
 
-window .search-container:focus-within {
-    border-color: @border;
-    box-shadow: 0 8px 30px alpha(@selected-text, 0.35);
-    color: @base;
-}
 
 
 
 window .box-wrapper {
-    border-radius: 4px;
+    border-radius: 6px;
     box-shadow: 0 2px 12px alpha(@selected-text, 0.2);
     backdrop-filter: blur(10px);
     line-height: 70%;
@@ -49,18 +45,12 @@ window .item-text {
 window .preview {
     background: alpha(@base, 0.10);
     color: @foreground;
-    padding: 8px;
-    margin: 4px 10px 8px 10px;
-    border-radius: 4px;
+    padding: 2px;
+    margin: 2px 2px 2px 2px;
+    border-radius: 6px;
     border: 2px solid transparent;
-    transition: all 180ms ease-out;
+    transition: all 10ms ease-out;
     backdrop-filter: blur(10px);
+    border: 2px solid alpha(@selected-text, 0.8);
 }
-
-window:focus-within .preview {
-    border: 2px solid @selected-text;
-    background: alpha(@base, 0.25);
-    box-shadow: 0 8px 32px alpha(@selected-text, 0.25);
-}
-
 
