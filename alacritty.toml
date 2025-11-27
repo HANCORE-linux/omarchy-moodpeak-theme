@@ -10,8 +10,8 @@ green   = "#BDC1B9"
 yellow  = "#D5D0C4"
 blue    = "#9ba7ba"
 magenta = "#8fa0b5"
-cyan    = "#93adc2
-white   = "#a4c2c7
+cyan    = "#93adc2"
+white   = "#a4c2c7"
 
 [colors.bright]
 black   = "#595f6c"
