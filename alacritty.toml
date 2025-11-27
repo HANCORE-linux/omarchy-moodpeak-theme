@@ -9,9 +9,9 @@ red     = "#E8D5BC"
 green   = "#BDC1B9"
 yellow  = "#D5D0C4"
 blue    = "#9ba7ba"
-magenta = "#9db5c8"
-cyan    = "#abc6c9"
-white   = "#FDF6E4"
+magenta = "#8fa0b5"
+cyan    = "#93adc2
+white   = "#a4c2c7
 
 [colors.bright]
 black   = "#595f6c"
@@ -21,7 +21,7 @@ yellow  = "#fff2ae"
 blue    = "#a8c7e8"
 magenta = "#c8a7e6"
 cyan    = "#a9e1dd"
-white   = "#ffffff"
+white   = "#f7f9fc"
 
 [colors.cursor]
 text   = "#1d222c"
