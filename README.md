@@ -12,7 +12,7 @@ If you ever need a gentle digital nudge that says “keep going, one step at a t
 
 
 # Backgrounds
-<img width="400" height="600" alt="BG1" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/25f94c87cd686771b81cd952d28edf738b2852c5/backgrounds/BG1.png" />
+<img width="400" height="600" alt="BG1" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/25f94c87cd686771b81cd952d28edf738b2852c5/backgrounds/BG1.png" /> <img width="400" height="600" alt="BG1" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/17bbb426536ed5585b5efc942c0b02e2679a00b5/backgrounds/BG2.jpg" />
 <img width="400" height="600" alt="BG3" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/998f0f616b34bf7ca688742f7bcfc9310bf8ad90/backgrounds/BG3.jpg" />
 <img width="400" height="600" alt="BG4" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/998f0f616b34bf7ca688742f7bcfc9310bf8ad90/backgrounds/BG4.jpg" />
 
