@@ -13,6 +13,10 @@ If you ever need a gentle digital nudge that says “keep going, one step at a t
 
 # Backgrounds
 <img width="3840" height="2160" alt="BG1" src="https://github.com/user-attachments/assets/1cc92ad5-0d2b-4d59-8611-059b6836cc20" />
+![BG2](https://github.com/user-attachments/assets/e5a0b478-06eb-4329-9a68-9df7358d4df2)
+![BG4](https://github.com/user-attachments/assets/6a369e4b-0714-46eb-96ca-70f8fb8bb279)
+![BG3](https://github.com/user-attachments/assets/21aabd51-4fdd-44c0-a9a9-b78f21f0d169)
+
 
 
 
