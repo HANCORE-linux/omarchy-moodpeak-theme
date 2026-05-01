@@ -1,5 +1,5 @@
 # Moodpeak [V2]
-re-work of Moodpeak base 
+re-work of Moodpeak [base-branch](https://github.com/HANCORE-linux/omarchy-moodpeak-theme/tree/main) 
 
 # Installation Theme
 
