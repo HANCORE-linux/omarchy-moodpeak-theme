@@ -2,14 +2,19 @@
 Moodpeak is my space for small, calm utilities that turn bad days into good ones with minimal noise and maximum comfort.
 Everything here is designed to whisper encouragement instead of shouting features.
 If you ever need a gentle digital nudge that says “keep going, one step at a time,” this is where you’ll find.
+
+# Installation Theme
+
+To install this theme version V1, simply git clone this branch in your omarchy theme folder:
+
+```bash
+git clone -b moodpeak-v1 https://github.com/HANCORE-linux/omarchy-moodpeak-theme.git
+```
+
 # Screenshots
 <img width="2560" height="1440" alt="screenshot-2025-11-19_08-48-01" src="https://github.com/user-attachments/assets/6ca08f0e-d9a9-4854-bc38-32efa4e95554" />
 <img width="2560" height="1440" alt="screenshot-2025-11-19_08-49-37" src="https://github.com/user-attachments/assets/d66630af-351f-4fde-af11-cb534c152c89" />
 <img width="2560" height="1440" alt="screenshot-2025-11-18_17-56-44" src="https://github.com/user-attachments/assets/2f2836a4-5734-44ab-b185-02a28e1ebad0" />
-
-
-
-
 
 # Backgrounds
 <img width="400" height="600" alt="BG1" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/25f94c87cd686771b81cd952d28edf738b2852c5/backgrounds/BG1.png" /> <img width="400" height="600" alt="BG1" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/17bbb426536ed5585b5efc942c0b02e2679a00b5/backgrounds/BG2.jpg" />
@@ -17,16 +22,6 @@ If you ever need a gentle digital nudge that says “keep going, one step at a t
 <img width="400" height="600" alt="BG4" src="https://github.com/HANCORE-linux/omarchy-moodpeak-theme/blob/998f0f616b34bf7ca688742f7bcfc9310bf8ad90/backgrounds/BG4.jpg" />
 
 
-
-
-
-# Installation Theme
-
-To install this theme, simply use the omarchy-theme-install command:
-
-```bash
-omarchy-theme-install https://github.com/HANCORE-linux/omarchy-moodpeak-theme.git
-```
 ## Vesktop-Theme
 For Vesktop users, you can install this theme by copying or use Bypass hook-script (usally from ~/Downloads) the theme file to your Vesktop themes directory:
 ```bash
