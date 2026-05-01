@@ -1,4 +1,4 @@
-# Moodpeak
+# Moodpeak V1
 Moodpeak is my space for small, calm utilities that turn bad days into good ones with minimal noise and maximum comfort.
 Everything here is designed to whisper encouragement instead of shouting features.
 If you ever need a gentle digital nudge that says “keep going, one step at a time,” this is where you’ll find.
