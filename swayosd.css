@@ -22,7 +22,7 @@ window:not(:backdrop) #container,
 window:backdrop #container {
     border: 2px solid @border;
     border-radius: 6px;
-    background-color: @ase;
+    background-color: @base;
     padding: 12px;
     background-clip: padding-box;
     box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.3);
