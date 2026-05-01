@@ -352,3 +352,25 @@ div[class*="clear_"] {
 div[class*="clear_"]:hover {
     color: var(--color05) !important;
 }
+
+:root {
+    --base0D: #82eeff !important; 
+}
+
+.theme-dark, .theme-light, .visual-refresh {
+    --primary-600: var(--base05) !important; 
+    --primary-660: var(--base05) !important;
+    --primary-800: var(--base05) !important;
+    --text-brand: var(--base0B) !important; 
+}
+
+[class*="threadSuggestion"] {
+    --text-muted: var(--base0B) !important;
+    --header-secondary: var(--base0B) !important;
+}
+
+[class*="threadSuggestion"] [class*="newMessages"],
+[class*="threadSuggestion"] [class*="text-muted"] {
+    color: var(--base0B) !important; /* Dein Türkis #82eeff */
+    opacity: 1 !important;
+}
