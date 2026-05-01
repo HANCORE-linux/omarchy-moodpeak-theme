@@ -339,8 +339,7 @@ svg[fill^="#43a25a"], path[fill^="#43a25a"] { fill: var(--status-positive) !impo
   pointer-events: none;
 }
 
-/* --- FIX FÜR DEN "CLEAR" / "LÖSCHEN" TEXT --- */
-/* Diese Regel erzwingt die Farbe für den Text-Button unter der Suche */
+
 [class*="search"] [class*="clear"],
 [class*="searchBar"] [class*="clear"],
 div[class*="clear_"] {
@@ -348,7 +347,7 @@ div[class*="clear_"] {
     opacity: 1 !important;
 }
 
-/* Hover-Effekt für bessere Sichtbarkeit */
+
 [class*="search"] [class*="clear"]:hover,
 div[class*="clear_"]:hover {
     color: var(--color05) !important;
