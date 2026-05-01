@@ -15,6 +15,9 @@ omarchy-theme-install https://github.com/HANCORE-linux/omarchy-moodpeak-theme.gi
 #### Waybar-Theme
 [Link](https://github.com/HANCORE-linux/waybar-themes)
 
+#### Theme-Hook-Manager
+[Link](https://github.com/OldJobobo/theme-hook-plugin-manager)
+
 ## Acknowledgments
 This theme was created using [Aether](https://github.com/bjarneo/aether) by [@bjarneo](https://github.com/bjarneo).
 
