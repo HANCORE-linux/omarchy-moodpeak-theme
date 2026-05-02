@@ -1,6 +1,17 @@
 # Moodpeak [V2]
 re-work of Moodpeak [base-branch](https://github.com/HANCORE-linux/omarchy-moodpeak-theme/tree/moodpeak-v1) 
 
+I have added specific window rules to **disable opacity and dimming effects** for all  applications.
+
+**The Goal:** I wanted to create a solid visual experience with a total focus on the terminal colors.
+
+<b>**Customization:** If you prefer transparency or dimming, simply remove the **windowrule**:</b>
+- `windowrule = match:class .*, opacity 1.0 override 1.0 override, no_dim on`
+- section in:
+`~/.config/omarchy/themes/moodpeak/hyprland.conf
+`
+for this theme.
+
 # Installation Theme
 
 To install this theme, simply use the omarchy-theme-install command:
