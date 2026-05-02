@@ -76,6 +76,7 @@ child:selected {
 child:selected .item-box {
   padding: 2px 10px; 
   color: @selected-text;
+  transition: 0.15s ease-in-out;
 }
 
 child:selected .item-title,
