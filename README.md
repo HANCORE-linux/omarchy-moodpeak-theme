@@ -10,7 +10,7 @@ I have added specific window rules to **disable opacity and dimming effects** fo
 - section in:
 `~/.config/omarchy/themes/moodpeak/hyprland.conf
 `
-for this theme and reload Theme , go Omarchy Menu > Style > Theme > select Moodpeak.
+- for this theme and reload Theme , go Omarchy Menu > Style > Theme > select Moodpeak.
 
 # Installation Theme
 
