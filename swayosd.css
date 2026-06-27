@@ -11,20 +11,32 @@ window:not(:backdrop),
 window:backdrop {
     border: none;
     border-width: 0;
-    border-radius: 4px;
+    border-radius: 6px;
     background-color: transparent;
     box-shadow: none;
     padding: 12px;
 }
 
-/* Draw a new background */
+
+/* Draw a new background (solid — moodpeak has no layer blur, unlike mechanoonna's glass) */
 window:not(:backdrop) #container,
 window:backdrop #container {
     border: 2px solid @border;
     border-radius: 6px;
     background-color: @base;
+    background-image: linear-gradient(to bottom, rgba(130, 238, 255, 0.05), transparent);
     padding: 12px;
     background-clip: padding-box;
-    box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 2px 9px 0px rgba(10, 12, 18, 0.55);
+}
 
+/* Volume / brightness bar: subtle dark track + accent edge */
+progressbar trough {
+    background-color: rgba(61, 68, 85, 0.6);
+    border: 1px solid rgba(130, 238, 255, 0.22);
+    border-radius: 3px;
+}
+
+progress {
+    border-radius: 3px;
 }
