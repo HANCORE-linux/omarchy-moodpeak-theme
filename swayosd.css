@@ -24,7 +24,6 @@ window:backdrop #container {
     border: 2px solid @border;
     border-radius: 6px;
     background-color: @base;
-    background-image: linear-gradient(to bottom, rgba(130, 238, 255, 0.05), transparent);
     padding: 12px;
     background-clip: padding-box;
     box-shadow: 2px 2px 9px 0px rgba(10, 12, 18, 0.55);
