@@ -1,0 +1,22 @@
+{
+    "name": "theme-moodpeak",
+    "displayName": "Moodpeak Theme",
+    "description": "Moodpeak color theme",
+    "publisher": "local",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moodpeak",
+                "uiTheme": "vs-dark",
+                "path": "./themes/moodpeak-color-theme.json"
+            }
+        ]
+    }
+}
