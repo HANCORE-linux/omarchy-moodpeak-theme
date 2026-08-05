@@ -1,0 +1,148 @@
+# Omarchy Quattro surfaces for Moodpeak.
+# Solid midnight surfaces, Hyprland's cyan-to-violet active framing, and
+# Walker's bright flat selection carry the legacy identity into Quattro.
+
+[bar]
+background = "#181C22"
+background-alpha = 1.0
+text = "#E0E6ED"
+active = "#4ECDC4"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "rgba(82eeffee) rgba(82eeffee) rgba(b388ebee) rgba(b388ebee) rgba(b388ebee) rgba(b388ebee) 90deg"
+active-border-foreground = "#181C22"
+
+[controls]
+normal-color = "#E0E6ED"
+normal-fill-alpha = 0.04
+normal-border-width = 1
+normal-border-alpha = 0.28
+
+hover-cursor-color = "#4ECDC4"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.52
+
+focus-color = "#82EEFF"
+focus-fill-alpha = 0.12
+focus-border-width = 1
+focus-border-alpha = 0.84
+
+selected-color = "#B388EB"
+selected-fill-alpha = 0.18
+selected-border-width = 1
+selected-border-alpha = 0.62
+
+pressed-color = "#6A85FF"
+pressed-fill-alpha = 0.24
+selection-color = "#82EEFF"
+selection-fill-alpha = 0.36
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+xs = 2
+md = 4
+control-padding-y = 5
+panel-padding = 10
+
+[font]
+base-size = 12
+heading = 16
+icon-large = 18
+
+[popups]
+background = "#181C22"
+background-alpha = 1.0
+text = "#6A85FF"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 1
+
+[tooltip]
+background = "#242B38"
+background-alpha = 1.0
+text = "#E0E6ED"
+border = "#3D4455"
+border-alpha = 1.0
+border-width = 1
+
+[notifications]
+background = "#181C22"
+background-alpha = 1.0
+text = "#4ECDC4"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 1
+countdown = "#B388EB"
+
+[launcher]
+background = "#181C22"
+background-alpha = 1.0
+text = "#E0E6ED"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 1
+scrim = "#181C22"
+scrim-alpha = 0.0
+selected-background = "#4ECDC4"
+selected-background-alpha = 1.0
+selected-text = "#181C22"
+selected-border = "#4ECDC4"
+selected-border-alpha = 1.0
+selected-border-width = 0
+
+[menu]
+background = "#181C22"
+background-alpha = 1.0
+text = "#E0E6ED"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 1
+scrim = "#181C22"
+scrim-alpha = 0.0
+selected-background = "#4ECDC4"
+selected-background-alpha = 1.0
+selected-text = "#181C22"
+selected-border = "#4ECDC4"
+selected-border-alpha = 1.0
+selected-border-width = 0
+
+[polkit]
+background = "#181C22"
+background-alpha = 1.0
+text = "#E0E6ED"
+text-error = "#FF7B92"
+border = "hyprland.active-border"
+border-error = "#FF7B92"
+border-alpha = 1.0
+border-width = 1
+scrim = "#0A0C12"
+scrim-alpha = 0.56
+accent = "#4ECDC4"
+
+[lock]
+background = "#181C22"
+background-alpha = 1.0
+text = "#4ECDC4"
+placeholder = "#4ECDC480"
+text-error = "#FF7B92"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#FF7B92"
+border-alpha = 1.0
+border-width = 1
+selection = "#82EEFF"
+selection-alpha = 0.45
+
+[image-picker]
+scrim = "#0A0C12"
+scrim-alpha = 0.56
+text = "#E0E6ED"
+selected-border = "#4ECDC4"
+selected-border-alpha = 1.0
+unselected-border = "#3D4455"
+unselected-border-alpha = 0.72
